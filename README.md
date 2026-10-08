@@ -55,7 +55,38 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@aslushnikov](https://github.com/aslushnikov) | 914 |
+| [@jackfranklin](https://github.com/jackfranklin) | 254 |
+| [@JoelEinbinder](https://github.com/JoelEinbinder) | 203 |
+| [@dependabot[bot]](https://github.com/apps/dependabot) | 125 |
+| [@OrKoN](https://github.com/OrKoN) | 95 |
+| [@mathiasbynens](https://github.com/mathiasbynens) | 76 |
+| [@ebidel](https://github.com/ebidel) | 50 |
+| [@jschfflr](https://github.com/jschfflr) | 43 |
+| [@vsemozhetbyt](https://github.com/vsemozhetbyt) | 36 |
+| [@pavelfeldman](https://github.com/pavelfeldman) | 29 |
+| [@kblok](https://github.com/kblok) | 29 |
+| [@yanivefraim](https://github.com/yanivefraim) | 27 |
+| [@johanbay](https://github.com/johanbay) | 22 |
+| [@sadym-chromium](https://github.com/sadym-chromium) | 21 |
+| [@tasneemkoushar](https://github.com/tasneemkoushar) | 18 |
+| [@whimboo](https://github.com/whimboo) | 17 |
+| [@mjzffr](https://github.com/mjzffr) | 15 |
+| [@paulirish](https://github.com/paulirish) | 14 |
+| [@hanselfmu](https://github.com/hanselfmu) | 12 |
+| [@jrandolf-zz](https://github.com/jrandolf-zz) | 11 |
+| [@theDavidBarton](https://github.com/theDavidBarton) | 10 |
+| [@christian-bromann](https://github.com/christian-bromann) | 10 |
+| [@TimvdLippe](https://github.com/TimvdLippe) | 9 |
+| [@yury-s](https://github.com/yury-s) | 9 |
+| [@alixaxel](https://github.com/alixaxel) | 8 |
+| [@AVGP](https://github.com/AVGP) | 7 |
+| [@Androbin](https://github.com/Androbin) | 6 |
+| [@Kikobeats](https://github.com/Kikobeats) | 6 |
+| [@benallfree](https://github.com/benallfree) | 6 |
+| [@alexkozy](https://github.com/alexkozy) | 5 |
 <!-- AI:end:contributors -->
 
 ## Origins

@@ -70,8 +70,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@kblok](https://github.com/kblok) | 29 |
 | [@yanivefraim](https://github.com/yanivefraim) | 27 |
 | [@johanbay](https://github.com/johanbay) | 22 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 21 |
 | [@sadym-chromium](https://github.com/sadym-chromium) | 21 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 20 |
 | [@tasneemkoushar](https://github.com/tasneemkoushar) | 18 |
 | [@whimboo](https://github.com/whimboo) | 17 |
 | [@mjzffr](https://github.com/mjzffr) | 15 |
